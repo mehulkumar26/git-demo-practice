@@ -1,0 +1,8 @@
+# Adding a line in the text file. 
+
+## The line is added in the master branch
+
+
+#  Again adding some lines in the text file. 
+
+## The line is added in the Sample Project branch
